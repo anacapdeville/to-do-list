@@ -2,7 +2,11 @@
 
 This was one of the firsts projects using HTML, CSS and JavaScript. This project is a website that is a to-do list. The user can add tasks to the list, mark if the task is done, remove the tasks that were finished, remove all the tasks and save the list.
 
-![Project](images/Captura de tela de 2021-01-23 11-25-46.png)
+![Project](https://github.com/anacapdeville/to-do-list/blob/master/images/Captura%20de%20tela%20de%202021-01-23%2011-25-46.png?raw=true)
+
+## Deploy da Aplicação com Vercel:
+
+> https://to-do-list-five-xi.vercel.app/
 
 ## Requirements of the project
 
