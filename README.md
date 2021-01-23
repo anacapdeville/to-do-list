@@ -1,6 +1,8 @@
 # Welcome to the repository to-do list!
 
-This was one of the firsts projects using HTML, CSS and JavaScript. This project is a website that is a to-do list. The user can add tasks to the list, mark if the task is done, remove the tasks that were finished and remove all the tasks.
+This was one of the firsts projects using HTML, CSS and JavaScript. This project is a website that is a to-do list. The user can add tasks to the list, mark if the task is done, remove the tasks that were finished, remove all the tasks and save the list.
+
+![Project](images/Captura de tela de 2021-01-23 11-25-46.png)
 
 ## Requirements of the project
 
@@ -25,6 +27,8 @@ This was one of the firsts projects using HTML, CSS and JavaScript. This project
 #### 10 - It should have a button that remove the conclude items.
 
 #### 11 - It should have a button that remove the selected item.
+
+#### 12 - It should have a button that saves the list so when the page is refreshed the list stays saved.
 
 ## How to install the project
 1. Open the terminal and make a directory:
