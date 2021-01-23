@@ -25,3 +25,18 @@ This was one of the firsts projects using HTML, CSS and JavaScript. This project
 ### 10 - It should have a button that remove the conclude items.
 
 ### 11 - It should have a button that remove the selected item.
+
+## How to install the project
+1. Open the terminal and make a directory:
+
+```
+mkdir name-of-the-directory
+```
+
+2. Go inside the directory and clone the project:
+```
+cd name-of-the-directory
+git clone git@github.com:anacapdeville/to-do-list.git
+```
+
+3. Open the directory that was cloned and click twice on the file index.html. The file should open on the browser.
