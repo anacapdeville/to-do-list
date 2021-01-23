@@ -56,3 +56,10 @@ input {
 .button-bottom {
   margin-top: 10px;
 }
+
+@media (max-width: 830px) {
+  .block {
+    margin-left: 5vw;
+    margin-right: 5vw;
+  }
+}
