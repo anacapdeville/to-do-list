@@ -63,3 +63,17 @@ input.addEventListener("keyup", function(event) {
     document.getElementById("myBtn").click();
   }
 });
+
+const botaoSalvar = document.querySelector("#salvar-lista");
+
+botaoSalvar.addEventListener('click', function() {
+  const lista = document.querySelector('#lista-tarefas').innerHTML;
+
+  localStorage.setItem('lista', lista);
+})
+
+window.onload = function() {
+  const listaSalva = localStorage.getItem('lista');
+  var ol = document.querySelector('#lista-tarefas');
+  ol.innerHTML = listaSalva;
+}
