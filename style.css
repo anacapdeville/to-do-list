@@ -1,0 +1,58 @@
+.selected {
+  background-color: white;
+  color: rgb(80 , 137 , 145);
+}
+
+.completed {
+  text-decoration: line-through solid rgb(0, 0, 0);
+}
+
+body {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  background-image: url(/images/laptop.jpg);
+  background-attachment: fixed;
+  background-size: 100vw 100vh;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+#lista-tarefas {
+  font-size: 30px;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-decoration: underline;
+  font-size: 40px;
+}
+
+button {
+  background-color: rgb(80 , 137 , 145);
+  border: none;
+  font-size: 18px;
+  padding: 5px 15px;
+}
+
+p {
+  font-size: 25px;
+}
+
+input {
+  padding: 5px 15px;
+}
+
+.block {
+  background-color: rgb(8 , 9 , 86);
+  border: 10px solid white;
+  padding: 20px;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  margin-top: 15vh;
+}
+
+.button-bottom {
+  margin-top: 10px;
+}
